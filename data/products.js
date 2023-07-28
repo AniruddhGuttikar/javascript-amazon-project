@@ -658,3 +658,5 @@ const products = [
     ]
   }
 ];
+
+export  {products};
